@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction"
-authors: [publication_name, Tiago Timponi Torrent]
+authors: [publication_admin, Tiago Timponi Torrent]
 date: 2020-05-13
 doi: ""
 
