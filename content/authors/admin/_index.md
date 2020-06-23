@@ -67,4 +67,4 @@ email: ""
 
 I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science (specializing in Data Science, Statistics, and Machine Learning), and my minor is business. I am passionate about deep learning research and entrepreneurship.
 
-I am currently collaborating with [Global FrameNet](https://www.globalframenet.org/) to research cross-lingual annotation transfer of frame semantics. I also play the technical role on [Vizly](https://www.vizly.io) where I engineer AI models for the creative design industry.
+I am currently collaborating with the [Global FrameNet](https://www.globalframenet.org/) to research cross-lingual annotation transfer of frame semantics. I also play the technical role in [Vizly](https://www.vizly.io) where I engineer AI models for the creative design industry.
