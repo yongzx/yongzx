@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad (Third-Year Student)
+role: Undergrad'21
 
 # Organizations/Affiliations
 organizations:
