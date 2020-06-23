@@ -32,14 +32,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Google @ Summer of Code"
-  company_url = ""
+  company_url = "https://summerofcode.withgoogle.com/projects/#4816633052266496"
   location = "Remote"
   date_start = "2020-05-01"
   date_end = ""
   description = """
   Research cross-lingual annotation transfer for frame-semantics resources. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
   """
-  
+
 [[experience]]
   title = "Builder"
   company = "Mozilla @ Fix-The-Internet MVP Lab (Spring)"
@@ -86,7 +86,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "NLP Project Lead"
+  title = "Natural Language Processing Project Lead"
   company = "Pilot.com"
   company_url = "https://pilot.com/"
   location = "California"
@@ -119,7 +119,7 @@ date_format = "Jan 2006"
   * Built a Python production web-server to batch-email >1000 applicants.
   * Used fuzzy string searching to de-duplicate SQL records faster by 40%.
   """
-  
+
 [[experience]]
   title = "Research Assistant"
   company = "National University of Malaysia"

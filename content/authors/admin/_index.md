@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yong Zheng-Xin
+title: Yong Zheng Xin
 
 # Username (this should match the folder name)
 authors:
@@ -21,14 +21,13 @@ organizations:
 bio: My research interests include ...
 
 interests:
-- Artificial Intelligence
+- Deep Learning
 - Natural Language Processing
 - Semantics
-- Neural Style Transfer
 
 education:
   courses:
-  - course: BSc in Computational Science (Minor in Business)
+  - course: BSc in Computer Science (Minor in Business)
     institution: Minerva Schools at Keck Graduate Institute
     year: 2021
 
@@ -41,7 +40,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:zhengxin.yong@minerva.kgi.edu".
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: https://linkedin.com/in/yongzx
 - icon: google-scholar
   icon_pack: ai
@@ -49,7 +48,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yongzx
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
