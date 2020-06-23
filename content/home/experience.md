@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-15"
   date_end = ""
   description = """
-  Research cross-lingual annotation transfer for frame-semantics resources. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
+  One of the 24 teams, selected from 520 teams, to participate in an 8-week-long start-up incubator which funds products that build a better society.
   """
 
 
