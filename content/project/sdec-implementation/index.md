@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Vizly"
-summary: "Use AI technologies to improve communication between designers and clients"
-authors: [Yong Zheng Xin, Viet Hoang Tran Duong, Fu Ziquan, Jason Liang]
+title: "SDEC [Keras Implementation]"
+summary: "Implement semi-supervised deep embedded clustering in Keras"
+authors: [Yong Zheng Xin]
 tags: []
 categories: []
-date: 2020-05-01
+date: 2019-08-31
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.vizly.io"
+external_link: "https://github.com/yongzx/SDEC-Keras"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/yongzx/SDEC-Keras"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=r-UhDfbL6lw&feature=youtu.be"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

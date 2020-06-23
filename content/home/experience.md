@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  Implement AI models from research papers to tackle business challenges.
+  Implement AI models from research papers to tackle communication challenges in the creative design industry.
   """
 
 [[experience]]
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-08-31"
   description = """
-  Research expanding Berkeley FrameNet 1.7 using deep learning and natural language processing. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/).
+  Research semi-supervised techniques and language models to expand Berkeley FrameNet 1.7. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/).
   """
 
 [[experience]]
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-05-31"
   description = """
-  Researched NLP models and implemented an end-to-end ML pipeline for automatically grading job application essays.
+  Researched NLP models and implemented an end-to-end ML pipeline to automatically grade job application essays.
   """
 
 [[experience]]
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2019-05-31"
   description = """
-  Collaborate with Google Cloud team on a research project to extract information from e-invoices.
+  Researched extracting information from financial invoices using recurrent neural network and attention mechanism.
   """
 
 [[experience]]

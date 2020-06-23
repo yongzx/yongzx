@@ -3,7 +3,7 @@
 
 title: "SRescue"
 summary: "Real-time tracking of victims and firefighters for commanders to deploy personnel and coordinate search efforts. "
-authors: [Yong Zheng Xin, Michelle S Lee, Yap Wei-Ting, Anirudh]
+authors: [Yong Zheng Xin, Michelle S Lee, Yap Wei-Ting, Anirudh Nair]
 tags: []
 categories: []
 date: 2018-04-01
