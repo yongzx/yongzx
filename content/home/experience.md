@@ -33,12 +33,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Product Team Intern"
+  company = "Minerva Schools at Keck Graduate Institute"
+  company_url = "https://www.minerva.kgi.edu/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-09-01"
+  date_end = "2018-04-30"
+  description = """
+  Responsibilities include:
+  
+  * Built a Python production web-server integrated with Intercom API to batch-email thousands of applicants.
+  * Developed a Chrome extension that used fuzzy string searching algorithm to compare and search school addresses on Google. 
+  * Reduced the time of correcting and de-duplicating the records in SQL database by 40%
+  * Supported > 1000 applicants who face technical issues in Minerva Schools' online assessments through Intercom
+  * Provided quality assurance for the Minerva Schools' official website and submitted online applications
+  """
 
 +++
