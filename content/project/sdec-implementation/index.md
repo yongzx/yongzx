@@ -3,7 +3,7 @@
 
 title: "SDEC [Keras Implementation]"
 summary: "Implement semi-supervised deep embedded clustering in Keras"
-authors: [Yong Zheng Xin]
+authors: [admin]
 tags: []
 categories: []
 date: 2019-08-31
