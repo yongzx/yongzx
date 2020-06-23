@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Providing Structure to Unstructured Financial Documents Utilizing AI/ML"
-authors: [Javier Tordable, Shengyang Dai, Ross Biro, Vishnu Kumar, Michael Cave, Zheng Xin Yong]
+authors: [Javier Tordable, Shengyang Dai, Ross Biro, Vishnu Kumar, Michael Cave, publication_admin]
 date: 2019-05-15
 doi: ""
 

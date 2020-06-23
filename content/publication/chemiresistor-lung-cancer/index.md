@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Using a chemiresistor-based alkane sensor to distinguish exhaled breaths of lung cancer patients from subjects with no lung cancer"
-authors: [Jiunn-Liang Tan, Zheng-Xin Yong, Chong-Kin Liam]
+authors: [Jiunn-Liang Tan, publication_admin, Chong-Kin Liam]
 date: 2016-10-08
 doi: "10.21037/jtd.2016.10.30"
 
