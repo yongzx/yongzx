@@ -121,14 +121,3 @@ date_format = "Jan 2006"
   """
 
 +++
-
-[[experience]]
-  title = "Research Assistant"
-  company = "National University of Malaysia"
-  company_url = "http://www.ukm.my/imen/?lang=en"
-  location = "Malaysia"
-  date_start = "2017-05-01"
-  date_end = "2017-05-31"
-  description = """
-  Research the effect of plasma treatment on surfaces and growth of stem cells.
-  """
