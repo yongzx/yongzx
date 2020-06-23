@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-08-31"
   description = """
-  Research expanding Berkeley FrameNet 1.7 using deep learning and natural language processing. Supervised by Prof. Tiago Timponi Torrent.
+  Research expanding Berkeley FrameNet 1.7 using deep learning and natural language processing. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/).
   """
 
 [[experience]]
