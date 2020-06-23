@@ -120,6 +120,8 @@ date_format = "Jan 2006"
   * Used fuzzy string searching to de-duplicate SQL records faster by 40%.
   """
 
++++
+
 [[experience]]
   title = "Research Assistant"
   company = "National University of Malaysia"
@@ -130,5 +132,3 @@ date_format = "Jan 2006"
   description = """
   Research the effect of plasma treatment on surfaces and growth of stem cells.
   """
-
-+++
