@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include ...
 
 interests:
-- Deep Learning
 - Natural Language Processing
 - Semantics
+- Neural Style Transfer
 
 education:
   courses:
