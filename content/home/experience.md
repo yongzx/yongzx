@@ -41,12 +41,19 @@ date_format = "Jan 2006"
   date_end = "2018-04-30"
   description = """
   Responsibilities include:
+  * Built a Python production web-server integrated to batch-email thousands of applicants.
+  * Developed a Chrome extension that used fuzzy string searching algorithm to de-duplicate records in SQL database.
+  """
   
-  * Built a Python production web-server integrated with Intercom API to batch-email thousands of applicants.
-  * Developed a Chrome extension that used fuzzy string searching algorithm to compare and search school addresses on Google. 
-  * Reduced the time of correcting and de-duplicating the records in SQL database by 40%
-  * Supported > 1000 applicants who face technical issues in Minerva Schools' online assessments through Intercom
-  * Provided quality assurance for the Minerva Schools' official website and submitted online applications
+[[experience]]
+  title = "Research Assistant"
+  company = "National University of Malaysia"
+  company_url = "http://www.ukm.my/imen/?lang=en"
+  location = "Malaysia"
+  date_start = "2017-05-01"
+  date_end = "2017-05-31"
+  description = """
+  Research the effect of plasma treatment on surfaces and growth of stem cells.
   """
 
 +++
