@@ -19,10 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Google Summer of Code - Research Intern"
+  company = "Google"
+  company_url = "https://summerofcode.withgoogle.com/archive/2019/projects/6628996119265280/"
+  location = "Remote"
+  date_start = "2019-06-01"
+  date_end = "2019-08-31"
+  description = """
+  Research expanding Berkeley FrameNet 1.7 using deep learning and natural language processing. Supervised by Prof. Tiago Timponi Torrent.
+  """
+
+[[experience]]
   title = "Machine Learning Research Intern"
-  company = "Pilot.com"
-  company_url = "https://pilot.com/"
-  location = "California"
+  company = "Recruit Co., Ltd."
+  company_url = "https://recruit-holdings.com/"
+  location = "Remote"
+  date_start = "2018-12-01"
+  date_end = "2019-05-31"
+  description = """
+  Researched NLP models and implemented an end-to-end ML pipeline for automatically grading job application essays.
+  """
+
+[[experience]]
+  title = "Machine Learning Research Intern"
+  company = "The Interface Financial Group"
+  company_url = "https://www.interfacefinancial.com/"
+  location = "Maryland"
   date_start = "2018-06-01"
   date_end = "2019-05-31"
   description = """
@@ -61,7 +83,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   * Built a Python production web-server to batch-email >1000 applicants.
-  * Used fuzzy string searching algorithm to de-duplicate SQL records faster by 40%.
+  * Used fuzzy string searching to de-duplicate SQL records faster by 40%.
   """
   
 [[experience]]
