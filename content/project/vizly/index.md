@@ -4,7 +4,7 @@
 title: "Vizly"
 summary: "Use AI technologies to improve communication between designers and clients"
 authors: [admin, Viet Hoang Tran Duong, Fu Ziquan, Jason Liang]
-tags: []
+tags: [DL, SWE]
 categories: []
 date: 2020-05-01
 

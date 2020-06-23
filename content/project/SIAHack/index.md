@@ -4,7 +4,7 @@
 title: "SQXP"
 summary: "SQXP - Personalized Social App for Singapore Stopover Holidays"
 authors: [admin, Michelle S Lee, Amalanand Muthukumaran, Yap Wei Ting]
-tags: []
+tags: [SWE]
 categories: []
 date: 2017-10-23
 

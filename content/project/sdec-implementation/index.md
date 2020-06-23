@@ -4,7 +4,7 @@
 title: "SDEC [Keras Implementation]"
 summary: "Implement semi-supervised deep embedded clustering in Keras"
 authors: [admin]
-tags: []
+tags: [DL]
 categories: []
 date: 2019-08-31
 
