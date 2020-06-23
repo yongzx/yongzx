@@ -19,8 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Google Summer of Code - Research Intern"
-  company = "Google"
+  title = "Research Intern"
+  company = "Softbank @ Deepcore Inc. AI Lab"
+  company_url = "https://deepcore.jp/en/"
+  location = "Remote"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  Implement AI models from research papers to tackle business challenges.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Google @ Summer of Code"
+  company_url = ""
+  location = "Remote"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """
+  Research cross-lingual annotation transfer for frame-semantics resources. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
+  """
+  
+[[experience]]
+  title = "Builder"
+  company = "Mozilla @ Fix-The-Internet MVP Lab (Spring)"
+  company_url = "https://builders.mozilla.community/"
+  location = "Remote"
+  date_start = "2020-04-15"
+  date_end = ""
+  description = """
+  Research cross-lingual annotation transfer for frame-semantics resources. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
+  """
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "Google @ Summer of Code"
   company_url = "https://summerofcode.withgoogle.com/archive/2019/projects/6628996119265280/"
   location = "Remote"
   date_start = "2019-06-01"
