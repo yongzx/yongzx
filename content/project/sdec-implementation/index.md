@@ -9,7 +9,7 @@ categories: []
 date: 2019-08-31
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/yongzx/SDEC-Keras"
+external_link: "https://paperswithcode.com/paper/semi-supervised-deep-embedded-clustering"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
