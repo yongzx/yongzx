@@ -123,7 +123,7 @@ We obtained the best result for the embedding-based method when unigram word emb
 
 The baseline model uses a simple multinomial log-linear classifier for frame prediction for a particular frame-evoking lexical unit. The input representation for the lexical unit is a combination of parts-of-speech labels, dependency labels, lemmatized sequences of words, its WordNet relations with other frame-evoking lexical units in the sentence, its mBERT embedding, and its minimum and mean distances from the embeddings of the set of words obtained after the FrameNet Filter (see [Figure 4](#figure-lexical-units-identification-with-the-baseline-model])).
 
-Given the input representation, the classifier chooses the best frame from all the frames in Berkeley FrameNet. We train the classifier using all the data published by Johannsen et al. (2015).[^3]
+Given the input representation, the classifier chooses the best frame from all the frames in Berkeley FrameNet. We trained the classifier using all the data published by Johannsen et al. (2015).[^3]
 
 ### 10. Proposed Modification
 
