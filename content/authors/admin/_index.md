@@ -15,7 +15,7 @@ role: Undergrad'21
 # Organizations/Affiliations
 organizations:
 - name: Minerva Schools at Keck Graduate Institute
-  url: ""
+  url: "http://minerva.kgi.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about deep learning research.
@@ -23,7 +23,8 @@ bio: Passionate about deep learning research.
 interests:
 - Natural Language Processing
 - Semantics
-- Neural Style Transfer
+- Artificial Intelligence in Creative Design
+
 
 education:
   courses:
@@ -67,4 +68,4 @@ email: ""
 
 I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science (specializing in Data Science, Statistics, and Machine Learning), and my minor is business. I am passionate about deep learning research and entrepreneurship.
 
-I am currently collaborating with the [Global FrameNet](https://www.globalframenet.org/) to research cross-lingual annotation transfer of frame semantics. I also play the technical role in [Vizly](https://www.vizly.io) where I engineer AI models for the creative design industry.
+I am currently working with the [Global FrameNet](https://www.globalframenet.org/) team in my [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#4816633052266496) internship to research cross-lingual annotation transfer of frame semantics.

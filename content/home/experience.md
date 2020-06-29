@@ -20,17 +20,6 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Softbank @ Deepcore Inc. AI Lab"
-  company_url = "https://deepcore.jp/en/"
-  location = "Remote"
-  date_start = "2019-09-01"
-  date_end = ""
-  description = """
-  Implement AI models from research papers to tackle communication challenges in the creative design industry.
-  """
-
-[[experience]]
-  title = "Research Intern"
   company = "Google @ Summer of Code"
   company_url = "https://summerofcode.withgoogle.com/projects/#4816633052266496"
   location = "Remote"
@@ -46,7 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://builders.mozilla.community/"
   location = "Remote"
   date_start = "2020-04-15"
-  date_end = ""
+  date_end = "2020-06-27"
   description = """
   One of the 24 teams, selected from 520 teams, to participate in an 8-week-long start-up incubator which funds products that build a better society.
   """
