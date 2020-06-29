@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Vizly"
-summary: "Use AI technologies to improve communication between designers and clients"
+summary: "Use AI technologies to improve communication between designers and clients.<br>**Supported by Mozilla Builders MVP Lab**"
 authors: [admin, Viet Hoang Tran Duong, Fu Ziquan, Jason Liang]
 tags: [DL, SWE]
 categories: []

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SQXP"
-summary: "SQXP - Personalized Social App for Singapore Stopover Holidays <br>**Won Open Category Grand Prize @ SIA AppChallenge 2017**"
-authors: [admin, Michelle S Lee, Amalanand Muthukumaran, Yap Wei Ting]
-tags: [SWE]
+title: "Palettenet: Image recolorization with given color palette [PyTorch]"
+summary: ""
+authors: []
+tags: [implementation]
 categories: []
-date: 2017-10-23
+date: 2020-06-29T15:26:36-03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://medium.com/@NUSEnterprise/flying-high-with-the-winners-of-the-sia-app-challenge-2017-c9333c5d3d1d"
+external_link: "https://paperswithcode.com/paper/palettenet-image-recolorization-with-given"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/yongzx/SIAHack"
-url_pdf: ""
+url_code: "https://github.com/yongzx/PyTorch-PaletteNet"
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925231218312049"
 url_slides: ""
 url_video: ""
 
