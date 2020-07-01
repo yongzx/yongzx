@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Implementations"
-subtitle = "Code Implementations of Publish Papers"
+subtitle = "Implementations of Deep Learning Papers"
 
 [content]
   # Page type to display. E.g. project.
