@@ -55,7 +55,7 @@ BERT[^2] is a language model that uses Masked Language Models (MLM) and Next Sen
 
 The term "word sense" is a fancy term for a word meaning. Some words only have one word sense and some have multiple. For example, in [Figure 1](#figure-the-word-kick-has-different-word-senses-depending-on-the-sentence-context), the word "kick" has two word senses: it can refer to the action of striking with the foot or the abstract concept of giving up a habit.
 
-Levine et al. (2020) used the word senses &mdash; more specifically, supersenses &mdash; defined by WordNet. WordNet supersenses refer to coarse groupings of senses. For example, the supersense $\ntext{Religion}$ covers word senses (e.g., mosque and monastery) related to religious purposes.
+Levine et al. (2020) used the word senses &mdash; more specifically, supersenses &mdash; defined by WordNet. WordNet supersenses refer to coarse groupings of senses. For example, the supersense $\text{Religion}$ covers word senses (e.g., mosque and monastery) related to religious purposes.
 
 
 ## SenseBERT
