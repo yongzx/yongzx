@@ -64,7 +64,7 @@ Levine et al. (2020) used the word senses &mdash; more specifically, supersenses
 
 {{< figure src="modification_1.png" title="Illustration of the modification on the input embeddings. Part of the figure is taken from Devlin et al. (2018)." numbered="true" lightbox="true" class="img-md-75">}}
 
-Levine et al. (2020) introduced an additional embedding for each BERT input embedding. The additional embedding would be trained to represent supersenses. The authors proposed mapping each word to its supersense through a trainable weight matrix $M$ and subsequently to the sense embedding through another trainable matrix $S$.
+Levine et al. (2020) introduced an additional embedding for each BERT input embedding. The additional embedding would be trained to represent supersenses. The authors proposed mapping each word to its supersense through a trainable weight matrix $M$ and subsequently to the supersense-aware embedding through another trainable matrix $S$.
 
 
 ### Modification 2: Training Task for Supersense Prediction
