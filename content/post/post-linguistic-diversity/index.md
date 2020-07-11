@@ -52,7 +52,7 @@ The full language taxonomy can be found [here](https://microsoft.github.io/lingu
 {{< figure src="bar_total_lang.png" title="Percentage of total languages for each language class." numbered="true" lightbox="true" class="img-md-75">}}
 {{< figure src="bar_total_speakers.png" title="Total number of speakers for each language class." numbered="true" lightbox="true" class="img-md-75">}}
 
-One alarming finding is that, while there are billions of speakers for both Class 0 languages (such as Dahalo and Warlpiri) and Class 5 languages (such as English and German), the former class, which severely lacks resources, comprises 88% of the total languages in our world. In contrast, the latter class that is abundant with research resources **only** encompasses 0.28% of world languages.
+One alarming finding is that while there are billions of speakers for both Class 0 languages (such as Dahalo and Warlpiri) and Class 5 languages (such as English and German), the former class, which severely lacks resources, comprises 88% of the total languages in our world. In contrast, the latter class that is abundant with research resources **only** encompasses 0.28% of world languages.
 
 ### 2. Excluded Representation of Typological Features
 
