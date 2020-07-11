@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Understanding SenseBERT"
-subtitle: ""
-summary: "A quick distillation of the paper SenseBERT: Driving Some Sense into BERT"
+subtitle: "A quick distillation of the ACL 2020 publication '[SenseBERT: Driving Some Sense into BERT](https://www.aclweb.org/anthology/2020.acl-main.423/)'"
+summary: "A quick distillation of the ACL 2020 publication '[SenseBERT: Driving Some Sense into BERT](https://www.aclweb.org/anthology/2020.acl-main.423/)'"
 authors: [admin]
 tags: []
 categories: []
@@ -33,7 +33,7 @@ toc: true
 ## One-Sentence Summary
 Levine et al. (2020)[^1] created SenseBERT &mdash; BERT that learns word sense information &mdash; by training the BERT model with augmented input embeddings to predict the masked words and their WordNet supersenses.
 
-[^1]: Levine, Yoav, et al. (2020). SenseBERT: Driving Some Sense into BERT. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+[^1]: Levine, Y., Dagan, L., Ram, O., Padnos, D., Sharir, O., Shalev-Shwartz, S., Shashua, A., Shoham, Y. (2020). *SenseBERT: Driving Some Sense into BERT.* Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
 ---
 
 ## Introduction
