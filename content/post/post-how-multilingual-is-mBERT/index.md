@@ -112,6 +112,6 @@ Multilingual BERT (M-BERT)[^2] is a pre-trained language model that can generate
 
 ## Conclusion: When Does M-BERT Work Well, and Why?
 
-M-BERT transfers well when the source and the target languages are typologically similar because the representations do not capture the structural transformation needed when transferring knowledge to languages with different typological features.
-
 M-BERT generalizes across languages because different languages are close in the shared space when the Masked Language Modeling training maps the co-occurring word pieces of different languages to the same shared space.
+
+That being said, M-BERT transfers well only when the source and the target languages are typologically similar. The reason is that the representations do not capture the structural transformation needed for transferring knowledge to languages with different typological features.
