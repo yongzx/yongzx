@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Google Summer of Code 2020: Series 1"
-subtitle: ""
+subtitle: "Cross-lingual transfer of annotated lexical units and semantic frames"
 summary: "Cross-lingual transfer of annotated lexical units and semantic frames"
 authors: [admin]
 tags: []

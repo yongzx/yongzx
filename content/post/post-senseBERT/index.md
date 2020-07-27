@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Understanding SenseBERT"
-subtitle: "A quick distillation of the ACL 2020 publication '[SenseBERT: Driving Some Sense into BERT](https://www.aclweb.org/anthology/2020.acl-main.423/)'"
-summary: "A quick distillation of the ACL 2020 publication '[SenseBERT: Driving Some Sense into BERT](https://www.aclweb.org/anthology/2020.acl-main.423/)'"
+title: "Paper Summary - SenseBERT: Driving Some Sense into BERT"
+subtitle: "Understanding SenseBERT"
+summary: "Understanding SenseBERT"
 authors: [admin]
 tags: []
 categories: []

@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Paper Summary - How multilingual is Multilingual BERT?"
-subtitle: "Evaluate Multilingual BERT's performance on  NER, POS tagging, and translation tasks."
-summary: "Evaluate Multilingual BERT's performance on  NER, POS tagging, and translation tasks."
+subtitle: "Evaluate Multilingual BERT's performance on  NER, POS tagging, and translation tasks"
+summary: "Evaluate Multilingual BERT's performance on  NER, POS tagging, and translation tasks"
 authors: [admin]
 tags: []
 categories: []

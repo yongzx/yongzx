@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How Linguistically Diverse is the NLP World?"
-subtitle: "A quick distillation of the ACL 2020 publication '[The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://www.aclweb.org/anthology/2020.acl-main.560.pdf)'"
-summary: "A quick distillation of the ACL 2020 publication '[The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://www.aclweb.org/anthology/2020.acl-main.560.pdf)'"
+title: "Paper Summary - The State and Fate of Linguistic Diversity and Inclusion in the NLP World"
+subtitle: "How Linguistically Diverse is the NLP World?"
+summary: "How Linguistically Diverse is the NLP World?"
 authors: [admin]
 tags: []
 categories: []
@@ -35,7 +35,7 @@ Most labeled and unlabeled research resources are concentrated in a small propor
 
 ---
 ## Introduction
-Joshi et al. (2020)[^1] investigated the distribution of research resources and typological features for different languages. They also quantified the inclusiveness of NLP conferences in publishing research on different languages.
+Joshi et al. (2020)[^1] investigated the distribution of research resources and typological features for different languages, and they published their results in the ACL 2020 conference. They also quantified the inclusiveness of NLP conferences in publishing research on different languages.
 
 [^1]: Joshi, P., Santy, S., Budhiraja, A., Bali, K., Choudhury, M. (2020). *The State and Fate of Linguistic Diversity and Inclusion in the NLP World.* Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
 
