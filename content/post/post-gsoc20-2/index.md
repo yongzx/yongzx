@@ -136,7 +136,7 @@ For the sake of brevity, see my [previous post](http://localhost:1313/post/post-
 2. **Soft Hamming Loss**: Soft hamming loss measures the fraction of frame elements that are incorrectly labeled, but the label is at the correct position.
 3. **Total Hamming Loss**: Total hamming loss measures the overall fraction of frame elements that are incorrectly labeled. The ideal loss is 0.
 3. **Exact Match Ratio**: Exact match ratio measures the percentage of sentences that have all their frame elements labeled correctly. The ideal ratio is 1.
-4. **Distribution of Matching Number of Frame Elements**: The distribution reveals the disparity in the number of labeled words. Ideally, we should obtain a normal distribution centered at 0. Right-skewness means that there are missing frame elements in the target sentence, whereas left-skewness means that there are redundant frame elements that should not exist in the target sentence.
+4. **Distribution of Matching Number of Frame Elements**: The distribution reveals the disparity in the number of labeled words. Ideally, we should obtain a normal distribution centered at 0. Right-skewness means that there are missing frame element labels in the target sentence, whereas left-skewness means that words that do not play any semantic role are labeled with frame elements.
 
 #### Results
 
