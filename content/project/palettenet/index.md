@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Palettenet: Image recolorization with given color palette [PyTorch]"
+title: "Palettenet: Image Recolorization with Given Color Palette"
 summary: ""
 authors: []
 tags: [implementation]
@@ -31,6 +31,7 @@ url_code: "https://github.com/yongzx/PyTorch-PaletteNet"
 url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925231218312049"
 url_slides: ""
 url_video: ""
+url_code_lib: "PyTorch"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

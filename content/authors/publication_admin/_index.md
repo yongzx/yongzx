@@ -4,7 +4,7 @@ title: Zheng-Xin Yong
 
 # Username (this should match the folder name)
 authors:
-- publication_admin
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,15 +15,17 @@ role: Undergrad'21
 # Organizations/Affiliations
 organizations:
 - name: Minerva Schools at Keck Graduate Institute
-  url: ""
+  url: "http://minerva.kgi.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about deep learning research.
 
 interests:
-- Natural Language Processing
-- Semantics
-- Neural Style Transfer
+- Computational Semantics
+- Multilinguality
+- Representation Learning
+- Low-Resource NLP
+
 
 education:
   courses:
@@ -48,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yongzx
+- icon: blogger-b
+  icon_pack: fab
+  link: https://yongzx.github.io/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,6 +70,8 @@ email: ""
 # - Visitors
 ---
 
-I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science (specializing in Data Science, Statistics, and Machine Learning), and my minor is business. I am passionate about deep learning research and entrepreneurship.
+I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science, with an emphasis on Data Science, Statistics, and Machine Learning.
 
-I am currently collaborating with [Global FrameNet](https://www.globalframenet.org/) to research cross-lingual annotation transfer of frame semantics. I also play the technical role on [Vizly](https://www.vizly.io) where I engineer AI models for the creative design industry.
+My research interests broadly lie in multilinguality, lexical semantics, and low-resource natural language processing. I am also exploring different approaches of representing structural semantic knowledge for various applications such as lexicon expansion and annotation projection.
+
+Recently, I worked with the [Global FrameNet](https://www.globalframenet.org/) team in the summer to research cross-lingual annotation transfer of frame semantics. In the past, I've interned at the [Red Hen Lab](https://www.redhenlab.org/home), [Recruit Co., Ltd.](https://recruit-holdings.com/), [The Interface Financial Group](https://www.interfacefinancial.com/), and Minerva-Masason Foundation Applied AI Research Lab with [DEEPCORE](https://deepcore.jp/en/).

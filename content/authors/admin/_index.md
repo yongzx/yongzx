@@ -21,9 +21,10 @@ organizations:
 bio: Passionate about deep learning research.
 
 interests:
-- Natural Language Processing
-- Semantics
-- Artificial Intelligence in Creative Design
+- Computational Semantics
+- Multilinguality
+- Representation Learning
+- Low-Resource NLP
 
 
 education:
@@ -49,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yongzx
+- icon: blogger-b
+  icon_pack: fab
+  link: https://yongzx.github.io/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,6 +70,8 @@ email: ""
 # - Visitors
 ---
 
-I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science (specializing in Data Science, Statistics, and Machine Learning), and my minor is business. I am passionate about deep learning research and entrepreneurship.
+I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science, with an emphasis on Data Science, Statistics, and Machine Learning.
 
-I am currently working with the [Global FrameNet](https://www.globalframenet.org/) team in my [Google Summer of Code 2020](https://summerofcode.withgoogle.com/projects/#4816633052266496) internship to research cross-lingual annotation transfer of frame semantics.
+My research interests broadly lie in multilinguality, lexical semantics, and low-resource natural language processing. I am also exploring different approaches of representing structural semantic knowledge for various applications such as lexicon expansion and annotation projection.
+
+Recently, I worked with the [Global FrameNet](https://www.globalframenet.org/) team in the summer to research cross-lingual annotation transfer of frame semantics. In the past, I've interned at the [Red Hen Lab](https://www.redhenlab.org/home), [Recruit Co., Ltd.](https://recruit-holdings.com/), [The Interface Financial Group](https://www.interfacefinancial.com/), and Minerva-Masason Foundation Applied AI Research Lab.

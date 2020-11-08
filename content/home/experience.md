@@ -24,9 +24,20 @@ date_format = "Jan 2006"
   company_url = "https://summerofcode.withgoogle.com/projects/#4816633052266496"
   location = "Remote"
   date_start = "2020-05-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
-  Research cross-lingual annotation transfer for frame-semantics resources. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
+  Research cross-lingual annotation transfer for frame-semantics resources and the phenomenon of *semantic frame shift*. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/), [Prof. Ely Matos](https://ufjf-br.academia.edu/ElyMatos), [Prof. Collin F. Baker](https://www.icsi.berkeley.edu/icsi/people/collinb), and [Prof. Oliver Czulo](https://home.uni-leipzig.de/czulo/).
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Minerva-Masason Foundation Applied AI Research Lab"
+  company_url = ""
+  location = "Remote"
+  date_start = "2019-09-01"
+  date_end = "2020-08-31"
+  description = """
+  Research the use of neural networks in graphic designs such as attention prediction and palette transfer. Supervised by [Prof. Patrick Watson](https://www.minerva.kgi.edu/people/patrick-watson-phd/) and [Prof. Ozgur Ozluk](https://www.minerva.kgi.edu/people/ozgur-ozluk-phd-associate-professor-business/).
   """
 
 [[experience]]
@@ -40,7 +51,6 @@ date_format = "Jan 2006"
   One of the 24 teams, selected from 520 teams, to participate in an 8-week-long start-up incubator which funds products that build a better society.
   """
 
-
 [[experience]]
   title = "Research Intern"
   company = "Google @ Summer of Code"
@@ -49,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-08-31"
   description = """
-  Research semi-supervised techniques and language models to expand Berkeley FrameNet 1.7. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/).
+  Research semi-supervised deep clustering techniques and language models to expand Berkeley FrameNet 1.7. Supervised by [Prof. Tiago Timponi Torrent](https://www.tiagotorrent.com/).
   """
 
 [[experience]]
@@ -71,7 +81,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2019-05-31"
   description = """
-  Researched extracting information from financial invoices using recurrent neural network and attention mechanism.
+  Researched extracting information from financial invoices using recurrent neural networks and attention mechanisms.
   """
 
 [[experience]]
@@ -82,7 +92,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-04-30"
   description = """
-  Led a team of 4 students to create named-entity recognition algorithms to extract locations and names from memos.
+  Led a team of 4 students to create named-entity recognition CRF algorithms to extract locations and names from memos.
   """
 
 [[experience]]

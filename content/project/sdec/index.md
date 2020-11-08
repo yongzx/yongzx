@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Semi-supervised Deep Embedded Clustering [Keras]"
+title: "Semi-supervised Deep Embedded Clustering"
 summary: "Implement semi-supervised deep embedded clustering in Keras"
 authors: []
 tags: [implementation]
@@ -31,6 +31,7 @@ url_code: "https://github.com/yongzx/SDEC-Keras"
 url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925231218312049"
 url_slides: ""
 url_video: ""
+url_code_lib: "Keras"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
