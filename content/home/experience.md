@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Google @ Summer of Code"
-  company_url = "https://summerofcode.withgoogle.com/projects/#4816633052266496"
+  company_url = "https://summerofcode.withgoogle.com/archive/2020/projects/5277127974322176/"
   location = "Remote"
   date_start = "2020-05-01"
   date_end = "2020-08-31"
