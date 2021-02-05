@@ -18,6 +18,11 @@
   url = "publication/"
   weight = 30
 
+[[main]]
+  name = "Blog"
+  url = "https://yongzx.github.io"
+  weight = 40
+
 # [[main]]
 #   name = "Experience"
 #   url = "#experience"

@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:zhengxin.yong@minerva.kgi.edu".
+  link: 'mailto:zhengxin[dot]yong[at]minerva[dot]kgi[dot]edu'  # For a direct email link, use "mailto:zhengxin.yong@minerva.kgi.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yong_zhengxin
