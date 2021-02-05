@@ -1,3 +1,3 @@
 Run server: `hugo server - D`
 
-Publish to Netlify: `rake publish`
+Publish to Netlify: `git push origin master`

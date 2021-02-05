@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "TRIZ Trends of Engineering System Evolution of Silver Sinter-ing Tools Used to Produce Power Module in Hybrids and Electric Vehicles"
-authors: [Siow Kim Shyong, Chen Tiam Foo, admin]
+authors: [Kim Shyong Siow, Tiam Foo Chen, publication_admin]
 date: 2018-01-23
 doi: "10.14419/ijet.v7i3.17.21918"
 

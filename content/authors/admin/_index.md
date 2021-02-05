@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad'21
+role: CS Undergrad'21
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,13 @@ organizations:
 bio: Passionate about deep learning research.
 
 interests:
-- Computational Semantics
-- Multilinguality
-- Representation Learning
-- Low-Resource NLP
+- Low-resource Deep Learning
+- Multilingual NLP
 
 
 education:
   courses:
-  - course: BSc in Computer Science (Minor in Business)
+  - course: BSc in Computer Science (Business Minor)
     institution: Minerva Schools at Keck Graduate Institute
     year: 2021
 
@@ -41,18 +39,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:zhengxin.yong@minerva.kgi.edu".
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  link: https://linkedin.com/in/yongzx
+  link: https://twitter.com/yong_zhengxin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Mti1FvIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/yongzx
-- icon: blogger-b
-  icon_pack: fab
-  link: https://yongzx.github.io/
+
+# - icon: blogger-b
+#  icon_pack: fab
+#  link: https://yongzx.github.io/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,8 +69,8 @@ email: ""
 # - Visitors
 ---
 
-I am currently a rising senior student at [Minerva Schools at KGI](http://minerva.kgi.edu/). My major is computer science, with an emphasis on Data Science, Statistics, and Machine Learning.
+I am currently a senior undergraduate at [Minerva Schools at KGI](http://minerva.kgi.edu/).
 
-My research interests broadly lie in multilinguality, lexical semantics, and low-resource natural language processing. I am also exploring different approaches of representing structural semantic knowledge for various applications such as lexicon expansion and annotation projection.
+My research interests broadly lie in Multilingual NLP and Low-resource Deep Learning. I have also been working on Graph Representation Learning and Frame Semantics, with a focus on annotation projection and semantic frame induction.
 
-Recently, I worked with the [Global FrameNet](https://www.globalframenet.org/) team in the summer to research cross-lingual annotation transfer of frame semantics. In the past, I've interned at the [Red Hen Lab](https://www.redhenlab.org/home), [Recruit Co., Ltd.](https://recruit-holdings.com/), [The Interface Financial Group](https://www.interfacefinancial.com/), and Minerva-Masason Foundation Applied AI Research Lab.
+In Spring 2021, I will join [Glint Solar](https://www.glintsolar.co/) as a Machine Learning Engineering Intern. Previously, I've interned with the [Global FrameNet](https://www.globalframenet.org/) team, at Minerva-Masason Foundation Applied AI Research Lab, [Red Hen Lab](https://www.redhenlab.org/home), [Recruit](https://recruit-holdings.com/), and [The Interface Financial Group](https://www.interfacefinancial.com/).
