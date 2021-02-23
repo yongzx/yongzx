@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yongzx
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/yongzx
 
 # - icon: blogger-b
 #  icon_pack: fab
