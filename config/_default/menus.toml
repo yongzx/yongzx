@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Blog"
-  url = "https://yongzx.github.io"
+  url = "post/"
   weight = 40
 
 # [[main]]

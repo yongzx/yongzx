@@ -27,6 +27,7 @@ summary: "Detect ill-fitting lexical units and predict semantic frames with the 
 tags: ["semi-supervised learning", "frame semantics"]
 categories: []
 featured: true
+profile: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
