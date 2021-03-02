@@ -72,8 +72,8 @@ email: ""
 # - Visitors
 ---
 
-I am currently a senior undergraduate at [Minerva Schools at KGI](http://minerva.kgi.edu/).
+I am currently a senior undergraduate at [Minerva Schools at KGI](http://minerva.kgi.edu/) and an incoming CS Ph.D. candidate at [Brown University](http://cs.brown.edu/).
 
 My research interests broadly lie in Multilingual NLP and Low-resource Deep Learning. I have also been working on Graph Representation Learning and Frame Semantics, with a focus on annotation projection and semantic frame induction.
 
-In Spring 2021, I will join [Glint Solar](https://www.glintsolar.co/) as a Machine Learning Engineering Intern. Previously, I've interned with the [Global FrameNet](https://www.globalframenet.org/) team, at Minerva-Masason Foundation Applied AI Research Lab, [Red Hen Lab](https://www.redhenlab.org/home), [Recruit](https://recruit-holdings.com/), and [The Interface Financial Group](https://www.interfacefinancial.com/).
+I am currently working at [Glint Solar](https://www.glintsolar.co/) as a Machine Learning Engineering Intern. Previously, I've interned with the [Global FrameNet](https://www.globalframenet.org/) team, at Minerva-Masason Foundation Applied AI Research Lab, [Red Hen Lab](https://www.redhenlab.org/home), [Recruit](https://recruit-holdings.com/), and [The Interface Financial Group](https://www.interfacefinancial.com/).
