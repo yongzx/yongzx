@@ -1,4 +1,4 @@
 ### 👋  Hi, my name is Yong!
 
-- 📚 I work on ensuring AI safe and responsible while making it accessible to everyone around the world.
+- 📚 I work on reasoning models, safety alignment, and multilingual LLMs. 
 - See my [personal website](https://yongzx.github.io/).
